@@ -1,0 +1,14 @@
+layout_spectrum: 0.6999088341835886
+typography_spectrum: 0.3510057528037578
+color:
+  brandStrength: 0.6851471904665232
+  lightness: 0.07858960260637105
+  saturation: 0.03573345858603716
+  rhythmicContrast: 0.06810663943178952
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Hearthstone
